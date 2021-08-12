@@ -41,7 +41,7 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  header {width:100%}
+  header {width:100%;padding-bottom:50px}
   .header-list{
 		display:none;
 	}
