@@ -47,15 +47,15 @@
 	  }
 
     .top-wrapper {width:100%;text-align: left;}
-    .top-wrapper h1 {
+    .judul-tim h1 {
       font-size: 24px;
       line-height: 36px;
     }
-    .top-wrapper span {
+    .judul-tim span {
       font-size: 26px;
       line-height: 36px;
     }
-    .top-wrapper p {
+    .judul-tim p {
       font-size: 14px;
       line-height: 20px;
     }
