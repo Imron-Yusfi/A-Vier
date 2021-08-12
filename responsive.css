@@ -10,7 +10,7 @@
   .jelasin-2 span {font-size:12px;font-weight:normal}
   .judul-tim p {width:100%}
 
-  .middle-main {width: 100%;}
+  .middle-main {width: 100%;padding-bottom:100px}
   .kop h2 {width:100%}
   .kotak {width:100%}
   .Member-1 h3 {padding-top:100px}
@@ -22,6 +22,8 @@
   .sosmed p {width: 50%}
   .Member-1 {width: 50%}
   .Member-2 {width: 50%;}
+  .Member-img-1 {margin-left: 5px;}
+    .Member-img-2 {margin-right: 5px;}
 }
 
 
