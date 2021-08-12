@@ -1,4 +1,5 @@
 
+
 header{
   background-color: rebeccapurple;
   color:black;
@@ -47,7 +48,7 @@ ul{
 
 .header-list a{
   float: left;
-  display: none;
+  display: block;
   color: white;
   padding: 10px 15px;
   text-align: center;
@@ -153,7 +154,7 @@ border-radius:10px;
   .jelasin-2 span {
     color:#C4E538;font-weight:bold
   }
-.bungkus {clear:left}
+  .bungkus {clear:left}
 
   .kotak {
     width: 1170px;
@@ -372,4 +373,5 @@ border-radius:10px;
 .social a:hover {
     color: thistle;
 }
+
 
