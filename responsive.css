@@ -1,7 +1,8 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .header-logo{font-size:30px}
+  .header-logo{font-size:30px;}
   .header-list{font-size: 10px;}
+
   .judul-tim h1{font-size:32px}
   .judul-tim span {font-size:34px}
   .bungkus {width:100%}
@@ -10,56 +11,38 @@
   .judul-tim p {width:100%}
 
   .middle-main {width: 100%;}
-	
+
   .sosmed {width: 50%;margin-bottom: 50px;}
   .bottom-wrapper h1 {font-size: 32px;}
   .heading h2 {font-size: 20px;}
-.sosmed p {width: 50%}
-.Member-1 {
-  width: 50%;
-  margin-bottom: 50px;
-}
-
-.Member-2 {
-    width: 50%;
-    margin-bottom: 50px;
-  }
+  .sosmed p {width: 50%}
+  .Member-1 {width: 50%;margin-bottom: 50px;}
+  .Member-2 {width: 50%;margin-bottom: 50px;}
 }
 
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   header {width:100%;padding-bottom:50px}
-  .header-list{
-		display:none;
-	}
-	.menu-icon{
-		display:block;
-	  }
-
+  .header-list{display:none;}
+	.menu-icon{display:block;font-size:20px;padding-right:20px}
     .top-wrapper {width:100%;text-align: left;padding-bottom:700px;
-      height:500px;
-    }
+      height:500px;}
     .judul-tim h1 {
       font-size: 24px;
-      line-height: 36px;
-    }
+      line-height: 36px;}
     .judul-tim span {
       font-size: 26px;
-      line-height: 36px;
-    }
+      line-height: 36px;}
     .judul-tim p {
       font-size: 14px;
-      line-height: 20px;text-align:left;padding:0%
-    }
+      line-height: 20px;text-align:left;padding:0%}
     .bungkus {width:100%;padding-bottom:100px;}
     .jelasin-dong {width:100%;font-size: 14px;
       line-height: 20px;text-align:left}
       .jelasin-1 p{padding:0%}
       .jelasin-2 p {padding:0%}
-      .jelasin-1 {
-        width:100%;
-      }
+      .jelasin-1 {width:100%;}
       .jelasin-2 {
         width:100%
       }
