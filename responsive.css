@@ -1,4 +1,4 @@
-//* Untuk Tablet */
+/* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .header-logo{font-size:30px;}
   .header-list{font-size: 10px;}
@@ -25,7 +25,7 @@
 @media all and (max-width: 670px) {
   header {width:100%;padding-bottom:50px}
   .header-list{display:none;}
-	.menu-icon{display:block;font-size:20px;padding-right:20px}
+	.menu-icon{display:block;font-size:20px;}
     .top-wrapper {width:100%;text-align: left;padding-bottom:700px;
       height:500px;}
     .judul-tim h1 {
