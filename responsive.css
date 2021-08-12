@@ -35,12 +35,16 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+  header {width:100%}
   .header-list{
 		display:none;
 	}
 	.menu-icon{
 		display:block;
 	  }
+
+    .top-wrapper {width:100%}
+    .middle-main {width:100%}
   .sosmed {
     width: 100%;
   }
@@ -51,4 +55,6 @@
   .Member-1 {
       width: 100%;
     }
+    .bottom-wrapper {width:100%}
+    footer {width:100%}
 }
