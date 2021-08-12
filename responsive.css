@@ -1,11 +1,7 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .header-logo{
-    font-size:30px;
-  }
-  .header-list{
-    font-size: 10px;
-  }
+  .header-logo{font-size:30px}
+  .header-list{font-size: 10px;}
   .judul-tim h1{font-size:32px}
   .judul-tim span {font-size:34px}
   .bungkus {width:100%}
@@ -14,21 +10,11 @@
   .judul-tim p {width:100%}
 
   .middle-main {width: 100%;}
-  .sosmed {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-  
-  .bottom-wrapper h1 {
-    font-size: 32px;
-  }
-  
-  .heading h2 {
-    font-size: 20px;
-  }
-.sosmed p {
-	width: 50%
-}
+	
+  .sosmed {width: 50%;margin-bottom: 50px;}
+  .bottom-wrapper h1 {font-size: 32px;}
+  .heading h2 {font-size: 20px;}
+.sosmed p {width: 50%}
 .Member-1 {
   width: 50%;
   margin-bottom: 50px;
