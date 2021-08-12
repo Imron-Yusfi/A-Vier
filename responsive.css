@@ -49,7 +49,9 @@
 		display:block;
 	  }
 
-    .top-wrapper {width:100%;text-align: left;padding-bottom:100px}
+    .top-wrapper {width:100%;text-align: left;padding-bottom:100px;
+      height:500px;
+    }
     .judul-tim h1 {
       font-size: 24px;
       line-height: 36px;
@@ -62,7 +64,7 @@
       font-size: 14px;
       line-height: 20px;text-align:left;padding:0%
     }
-    .bungkus {width:100%;padding-bottom:100px;height:500px;}
+    .bungkus {width:100%;padding-bottom:100px;}
     .jelasin-dong {width:100%;font-size: 14px;
       line-height: 20px;text-align:left}
       .jelasin-1 p{padding:0%}
