@@ -67,9 +67,15 @@
       line-height: 20px;text-align:left}
       .jelasin-1 p{padding:0%}
       .jelasin-2 p {padding:0%}
+      .jelasin-1 {
+        width:100%;
+      }
+      .jelasin-2 {
+        width:100%
+      }
 
     .middle-main {width:100%}
-    .kotak {width:100%}
+    .kotak {width:100%;float:none}
   .sosmed {
     width: 100%;
   }
