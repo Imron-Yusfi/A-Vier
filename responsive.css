@@ -1,0 +1,54 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .header-logo{
+    font-size:30px;
+  }
+  .header-list{
+    font-size: 10px;
+  }
+  .sosmed {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+  .bottom-wrapper h1 {
+    font-size: 32px;
+  }
+  
+  .heading h2 {
+    font-size: 20px;
+  }
+.sosmed p {
+	width: 50%
+}
+.Member-1 {
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+.Member-2 {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .header-list{
+		display:none;
+	}
+	.menu-icon{
+		display:block;
+	  }
+  .sosmed {
+    width: 100%;
+  }
+  .Member-1 {
+    width: 100%;
+  }
+
+  .Member-1 {
+      width: 100%;
+    }
+}
