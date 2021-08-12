@@ -60,10 +60,11 @@
     }
     .judul-tim p {
       font-size: 14px;
-      line-height: 20px;text-align:center
+      line-height: 20px;text-align:left
     }
     .bungkus {width:100%}
-    .jelasin-dong {width:50%}
+    .jelasin-dong {width:50%;font-size: 14px;
+      line-height: 20px;text-align:left}
 
     .middle-main {width:100%}
     .kotak {width:100%}
