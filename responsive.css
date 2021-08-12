@@ -7,8 +7,9 @@
     font-size: 10px;
   }
   .judul-tim h1{font-size:32px}
-  span {font-size:34px}
+  .judul-tim span {font-size:34px}
   .bungkus {width:100%}
+  .jelasin-2 span {font-size:32px}
   .sosmed {
     width: 50%;
     margin-bottom: 50px;
@@ -57,12 +58,13 @@
     }
     .judul-tim p {
       font-size: 14px;
-      line-height: 20px;
+      line-height: 20px;text-align:center
     }
     .bungkus {width:100%}
     .jelasin-dong {width:50%}
 
     .middle-main {width:100%}
+    .kotak {width:100%}
   .sosmed {
     width: 100%;
   }
