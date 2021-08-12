@@ -9,7 +9,8 @@
   .judul-tim h1{font-size:32px}
   .judul-tim span {font-size:34px}
   .bungkus {width:100%}
-  .jelasin-2 span {font-size:12px}
+  .jelasin-dong {font-size:24px}
+  .jelasin-2 span {font-size:12px;font-weight:normal}
   .judul-tim p {width:100%}
   .sosmed {
     width: 50%;
