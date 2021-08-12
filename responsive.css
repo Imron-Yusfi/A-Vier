@@ -58,8 +58,8 @@
   .Member-1 {
     width: 100%;
   }
-  .Member-1 h3 {width:100%}
-  .Member-2 h3 {width:100%}
+  .Member-1 h3 {width:100%;margin-right:0px;margin-left:0px}
+  .Member-2 h3 {width:100%;margin-right:0px;margin-left:0px}
   .Member-2 {
       width: 100%;
     }
