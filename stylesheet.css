@@ -47,7 +47,7 @@ ul{
 
 .header-list a{
   float: left;
-  display: block;
+  display: none;
   color: white;
   padding: 10px 15px;
   text-align: center;
