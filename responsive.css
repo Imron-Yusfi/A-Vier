@@ -49,7 +49,7 @@
 		display:block;
 	  }
 
-    .top-wrapper {width:100%;text-align: left;}
+    .top-wrapper {width:100%;text-align: left;padding-bottom:100px}
     .judul-tim h1 {
       font-size: 24px;
       line-height: 36px;
